@@ -16,6 +16,7 @@ body {
     margin-top: 1%;
     height: 200px;
     width: 200px;
+    background-color:rgb(255, 0, 0) ;
     box-shadow: 0 0 5px rgb(255, 0, 0),
     0 0 15px rgb(255, 0, 0),
     0 0 30px rgb(255, 0, 0),
@@ -26,6 +27,7 @@ body {
     border-radius: 5%;
     
     animation: figura_1 3s infinite forwards;
+  cursor: pointer;
 
 }
 @keyframes figura_1 {
